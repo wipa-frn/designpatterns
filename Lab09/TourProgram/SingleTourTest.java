@@ -1,7 +1,4 @@
-package TourProgram;
-
-import java.util.ArrayList;
-import java.util.List;
+package Lab09.TourProgram;
 
 import static org.junit.jupiter.api.Assertions.*;
 

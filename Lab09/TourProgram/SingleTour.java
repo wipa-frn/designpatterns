@@ -1,4 +1,4 @@
-package TourProgram;
+package Lab09.TourProgram;
 
 public class SingleTour implements Tour {
     private String name;

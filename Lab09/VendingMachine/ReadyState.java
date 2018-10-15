@@ -1,4 +1,4 @@
-package VendingMachine;
+package Lab09.VendingMachine;
 
 public class ReadyState implements State {
     VendingMachine vendingMachine;

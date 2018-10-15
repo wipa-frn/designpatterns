@@ -1,4 +1,4 @@
-package VendingMachine;
+package Lab09.VendingMachine;
 
 import java.util.ArrayList;
 

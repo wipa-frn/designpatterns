@@ -1,4 +1,4 @@
-package TourProgram;
+package Lab09.TourProgram;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

@@ -1,7 +1,6 @@
-package VendingMachine;
+package Lab09.VendingMachine;
 
 import java.util.ArrayList;
-import java.util.PrimitiveIterator;
 
 public class VendingMachine {
 

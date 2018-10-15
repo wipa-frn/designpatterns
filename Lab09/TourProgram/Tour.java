@@ -1,4 +1,4 @@
-package TourProgram;
+package Lab09.TourProgram;
 
 public interface Tour {
     String getName();

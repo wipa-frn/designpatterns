@@ -1,4 +1,4 @@
-package TourProgram;
+package Lab09.TourProgram;
 
 import java.util.ArrayList;
 import java.util.List;
